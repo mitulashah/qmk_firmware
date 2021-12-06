@@ -1,6 +1,7 @@
 # mitulashah's GMMK Pro Layout
 
 ## Layout Updates
+Mostly default with some minor changes.  VIA support included.
 
 ### Layer 0
 - Delete replacing PrtSc between F12 and rotary encoder
